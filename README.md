@@ -1,2 +1,2 @@
 # Series
- .NET Console Application - Aplicação para cadastro e leitura de series
+.NET Console Application - Aplicação para cadastro de séries, utilizando recursos de orientação a objeto (classes abstratas) e interface.
